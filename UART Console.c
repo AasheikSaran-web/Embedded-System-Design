@@ -1,5 +1,5 @@
-#AASHEIK SARAN
-#CENSE,IISC
+/* AASHEIK SARAN FROM IISC, BANGALORE */
+
 
 #include <stdint.h>
 #include <stdbool.h>
