@@ -1,2 +1,2 @@
-# Embedded-System-Design
-Assignment for Embedded System Design Course in IISC Bangalore
+# Embedded System_Design
+Assignment  Solutions for Embedded System Design Course in IISC Bangalore
